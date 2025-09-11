@@ -11,8 +11,9 @@ SolidWorks-based 4-DOF robot arm design with STL/G-code and 3D printing results
 ---
 
 ## 📂 Files / 파일 구성
-- `solidworks/` : SolidWorks design files (.SLDPRT, .SLDASM) / 설계 파일  
-- `stl_gcode/` : STL and G-code files for 3D printing / 출력용 STL, G-code  
-- `Result/` : Printed results (JPG) / 출력 결과 사진  
+- `Solidworks Files/` : SolidWorks design files (.SLDPRT, .SLDASM) / 설계 파일  
+- `3D Printing Parts/` : STL and G-code files for 3D printing / 출력용 STL, G-code  
+- `Result/` : Printed results (JPG) / 출력 결과 사진
+- 
 ---
 
