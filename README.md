@@ -23,11 +23,11 @@ Compatible with ROS2 motion planning
 - `3D Printing Parts/` : STL and G-code files for 3D printing / 출력용 STL, G-code  
 - `Result/` : Printed results (JPG) / 출력 결과 사진
   
----![printed_manipulator_1](https://github.com/user-attachments/assets/ec08b4a9-3334-4c6d-be30-c615f64e2e8d)
+
 
 
 ## 📊 Results (결과)
-- 'printed_manipulator_1.jpg'
-- 'printed_manipulator_2.jpg'
+- ![result1](images/printed_manipulator_1.jpg)
+- ![result2](images/printed_manipulator_2.jpg)
 
 ---
