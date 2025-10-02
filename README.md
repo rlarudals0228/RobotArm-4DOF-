@@ -24,8 +24,8 @@ SolidWorks-based 5-DOF robot arm design with STL/G-code and 3D printing results
 ---
 
 ## 📊 Results (결과)
-- ![result1](result/printed_manipulator_1.jpg)
-- ![result2](result/printed_manipulator_2.jpg)
+![result1](result/printed_manipulator_1.jpg)
+![result2](result/printed_manipulator_2.jpg)
 ---
 
 ## ✉️ Contact (문의)
