@@ -15,19 +15,15 @@ SolidWorks-based 4-DOF robot arm design with STL/G-code and 3D printing results
 - Low-cost servo motor compatibility (MG996R, MG90S)
 - 3D-printable parts (PLA filament, FDM printing)
 - Lightweight & modular design for easy prototyping
-
 ---
-Compatible with ROS2 motion planning
+
 ## 📂 Files / 파일 구성
 - `Solidworks Files/` : SolidWorks design files (.SLDPRT, .SLDASM) / 설계 파일  
 - `3D Printing Parts/` : STL and G-code files for 3D printing / 출력용 STL, G-code  
-- `Result/` : Printed results (JPG) / 출력 결과 사진
-  
-
-
+- `Result/` : Printed results (JPG) / 출력 결과 사진  
+---
 
 ## 📊 Results (결과)
 - ![result1](result/printed_manipulator_1.jpg)
 - ![result2](result/printed_manipulator_2.jpg)
-
 ---
