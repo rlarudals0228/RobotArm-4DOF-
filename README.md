@@ -27,7 +27,7 @@ Compatible with ROS2 motion planning
 
 
 ## 📊 Results (결과)
-- ![result](images/printed_manipulator_1.jpg)
-- ![result](images/printed_manipulator_2.jpg)
+- ![result1](result/printed_manipulator_1.jpg)
+- ![result2](result/printed_manipulator_2.jpg)
 
 ---
